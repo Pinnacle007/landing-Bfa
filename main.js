@@ -12,7 +12,7 @@ function bfaValidForm(){
             name.style.border = '1px solid rgb(233,  231, 22)';
             return false
         }else{name.nextElementSibling.style.display = 'none';
-        name.style.border = '1px solid rgb(233,  231, 22)';
+        
 
         };
 
