@@ -16,3 +16,8 @@
     display: block;
     display: none;
 }
+
+
+body{
+    background-image: url(./images/nft.jpg);
+}

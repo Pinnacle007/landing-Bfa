@@ -70,6 +70,6 @@ function bfaValidForm(){
         };
 };
 
-bfaValidForm()
+    // bfaValidForm()  
 
 
